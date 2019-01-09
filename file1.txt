@@ -1,0 +1,10 @@
+<html>
+    <!DOCTYPE html>
+    <head>
+        <meta charset="UTF-8">
+        <title>mon fichier html</title>
+    </head>
+    <body>
+        <!-- contenu -->
+    </body>
+</html>            
